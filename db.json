@@ -492,54 +492,5 @@
     "CPU": "11th Gen Intel Core i5/i7",
     "GPU": "Integrated Intel Iris Xe Graphics"
   },
-  {
-    "id": 19,
-    "productCategory": "Laptop",
-    "name": "Lenovo ThinkPad L14 (2023)",
-    "brand": "Lenovo",
-    "description": "The Lenovo ThinkPad L14 (2023) is a reliable business laptop known for its durability and performance. It features a 14-inch Full HD display, AMD Ryzen processors, and long-lasting battery life.",
-    "basePrice": 899,
-    "inStock": true,
-    "stock": 12,
-    "featuredImage": "https://placehold.co/800x600?text=Lenovo+ThinkPad+L14",
-    "thumbnailImage": "https://placehold.co/400x300?text=Lenovo+ThinkPad+L14",
-    "storageOptions": [
-      "256GB SSD",
-      "512GB SSD"
-    ],
-    "colorOptions": [
-      "Black",
-      "Silver"
-    ],
-    "display": "14-inch Full HD (1920 x 1080) IPS, anti-glare",
-    "CPU": "AMD Ryzen 5/Ryzen 7",
-    "GPU": "Integrated AMD Radeon Graphics"
-  },
-  {
-    "id": 20,
-    "productCategory": "Laptop",
-    "name": "Lenovo IdeaPad Flex 5 (2023)",
-    "brand": "Lenovo",
-    "description": "The Lenovo IdeaPad Flex 5 (2023) is a versatile 2-in-1 laptop that adapts to your needs. It features a 15.6-inch touchscreen display, Intel Core processors, and a 360-degree hinge for flexible usage.",
-    "basePrice": 799,
-    "inStock": true,
-    "stock": 18,
-    "featuredImage": "https://placehold.co/800x600?text=Lenovo+IdeaPad+Flex+5",
-    "thumbnailImage": "https://placehold.co/400x300?text=Lenovo+IdeaPad+Flex+5",
-    "storageOptions": [
-      "512GB SSD",
-      "1TB SSD"
-    ],
-    "colorOptions": [
-      "Graphite Grey",
-      "Abyss Blue"
-    ],
-    "display": "15.6-inch Full HD (1920 x 1080) touchscreen, IPS",
-    "CPU": "10th Gen Intel Core i5/i7",
-    "GPU": "Integrated Intel UHD Graphics"
-  },
   ],
-  "total": 100,
-  "skip": 0,
-  "limit": 30
 }

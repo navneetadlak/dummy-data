@@ -1,6 +1,5 @@
 {
   "products": [
-[
   {
     "id": 1,
     "productCategory": "Smartphone",
@@ -493,4 +492,5 @@
     "GPU": "Integrated Intel Iris Xe Graphics"
   },
   ],
-}
+},
+
